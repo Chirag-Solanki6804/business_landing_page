@@ -1,4 +1,4 @@
-## ⭐ Business Landing Page Project 01 ⭐
+## ⭐ Business Landing Page Project 02 ⭐
 
 This is a assignment given in "Full Stack web development" course by PWSKILLS, built using HTML5 and CSS3**.
 <br>
@@ -25,12 +25,12 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 
 - I joined a **Full Stack web development** course by **PWSKILLS**.<a href="https://pwskills.com/"> **Check🚀 (Not Sponsered)**</a>
 - It took me about **2 hours** to complete this project.
-- This is my first Assignment project.
+- This is my Second Assignment project.
 
 ## 📌 What I Learn
 
-👉 Learn about how to build project.
-👉 Learn more about `flex` property of CSS.  
+👉 Learn about how to build project from scratch.
+👉 Learn more about `position` property of CSS.  
 
 
 ## 📬 Connect With Me
