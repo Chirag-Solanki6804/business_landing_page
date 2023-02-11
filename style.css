@@ -1,0 +1,118 @@
+/* Universal Styling */
+* {
+  background-color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Navbar Styling */
+
+nav {
+  width: 100%;
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+  align-items: center;
+  cursor: pointer;
+  width: 50%;
+}
+nav ul li:hover {
+  color: rgb(84, 84, 179);
+}
+
+/* Service Button In Navbar Styling */
+
+.contact-btn {
+  position: absolute;
+  right: 70px;
+  top: 30px;
+  width: 120px;
+  height: 40px;
+  background-color: rgb(84, 84, 179);
+  color: white;
+  font-weight: 700;
+  border-radius: 10px;
+  font-size: 13px;
+  cursor: pointer;
+  transition: 1s;
+}
+.contact-btn:hover {
+  background-color: white;
+  color: black;
+}
+
+/* Hero-Section Styling */
+
+.hero-section {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Hero-Section Left Part Styling */
+
+.hero-section-left {
+  width: 40%;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+}
+
+.hero-section-left .main-para {
+  line-height: 75px;
+  padding-left: 90px;
+  margin-top: 140px;
+  font-size: 55px;
+  text-align: start;
+}
+
+.hero-section-left .main-para .crush {
+  color: rgb(84, 84, 179);
+}
+
+.hero-section-left .sub-para {
+  display: block;
+  padding-left: 95px;
+  position: absolute;
+  top: 475px;
+  font-size: 15px;
+}
+
+/* Service Button Styling */
+
+.hero-section-left .service-btn {
+  display: block;
+  position: absolute;
+  top: 580px;
+  margin-left: 90px;
+  width: 190px;
+  height: 45px;
+  background-color: rgb(84, 84, 179);
+  color: white;
+  font-weight: 700;
+  border-radius: 10px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: 1s;
+}
+.hero-section-left .service-btn:hover {
+  background-color: white;
+  color: black;
+}
+
+/* Hero-Section Right Part Styling */
+
+.hero-section-right {
+  width: 50%;
+}
+
+.hero-section-right img {
+  position: absolute;
+  top: 70px;
+  left: 700px;
+  width: 670px;
+  height: auto;
+  padding: 70px;
+}
