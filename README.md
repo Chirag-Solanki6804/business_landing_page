@@ -29,7 +29,7 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 
 ## 📌 What I Learn
 
-👉 Learn about how to build project from scratch.
+👉 Learn about how to build project from scratch. <br>
 👉 Learn more about `position` property of CSS.  
 
 
