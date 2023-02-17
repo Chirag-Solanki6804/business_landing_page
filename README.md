@@ -25,7 +25,7 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 
 - I joined a **Full Stack web development** course by **PWSKILLS**.<a href="https://pwskills.com/"> **Check🚀 (Not Sponsered)**</a>
 - It took me about **1 hours** to complete this project.
-- This is my Second Assignment project.
+- This is my third Assignment project.
 
 ## 📌 What I Learn
 
