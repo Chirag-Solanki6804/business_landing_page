@@ -4,10 +4,8 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 <br>
 <br>
 
-
 ## 📌 **Live Site URL:** <a href="https://crsproject2.netlify.app/">**Visit Now** 🚀</a>
 
-<br>
 <br>
 
 ## 📌 Tech Stack
@@ -16,7 +14,6 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
 <br>
 <br>
-
 
 ## 📌 Overview
 
