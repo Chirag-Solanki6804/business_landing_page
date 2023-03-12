@@ -2,10 +2,12 @@
 
 This is a assignment given in "Full Stack web development" course by PWSKILLS, built using HTML5 and CSS3**.
 <br>
+<br>
 
 
 ## 📌 **Live Site URL:** <a href="https://crsproject2.netlify.app/">**Visit Now** 🚀</a>
 
+<br>
 <br>
 
 ## 📌 Tech Stack
