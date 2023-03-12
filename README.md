@@ -21,18 +21,6 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 
 ![Alt Image text](/assets/screenshot2.png?raw=true "Optional Title")
 
-## 📌 My process
-
-- I joined a **Full Stack web development** course by **PWSKILLS**.<a href="https://pwskills.com/"> **Check🚀 (Not Sponsered)**</a>
-- It took me about **2 hours** to complete this project.
-- This is my Second Assignment project.
-
-## 📌 What I Learn
-
-👉 Learn about how to build project from scratch. <br>
-👉 Learn more about `position` property of CSS.  
-
-
 ## 📬 Connect With Me
 
 - **LinkedIn** - [Chirag Solanki](https://www.linkedin.com/in/chiragagu6/)
@@ -40,4 +28,3 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 ## 📌 Acknowledgments
 
 - Course Instructor - [Hitesh Choudhary](https://github.com/hiteshchoudhary)
-- This ReadMe File Inspired From - [prakash-naikwadi](https://github.com/prakash-naikwadi/)
